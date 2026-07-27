@@ -68,5 +68,12 @@
     "description": "Use my uploaded photo as the face reference and preserve my exact facial features, hairstyle, skin tone, body proportions, and identity. Replace the person in the reference scene with me while keeping the exact same composition, pose, camera angle, framing, perspective, and background.\nI am sitting casually on the hood of a vintage black sedan in a busy parking lot at night, in front of a glowing retro neon gym sign. The atmosphere has a nostalgic 1990s American aesthetic with parked classic cars, warm tungsten lighting, colorful neon reflections, and cinematic nighttime ambience.\nOutfit: oversized dark hoodie, light blue jeans, white sneakers.\nShot on a vintage instant camera with direct flash, slightly overexposed highlights, soft focus, subtle film grain, faded colors, dust particles, scratches, authentic Polaroid texture, analog photography, nostalgic mood.\nKeep the pose, facial expression, hand placement, body position, camera distance, and overall composition identical to the reference image. Only replace the person with me. Ultra-realistic. 9:16.",
     "image": "10.jpg",
     "category": "style"
+  },
+  {
+    "id": 11,
+    "title": "🔥",
+    "description": "Create an ultra-realistic cinematic studio portrait of the same man from the uploaded personal reference photo. His face must closely and naturally match the reference, preserving his exact identity, face shape, eyes, eyebrows, nose, lips, jawline, beard pattern, hairstyle, skin tone, and realistic proportions. Do not beautify, reshape, or alter his identity.\n\nPose him in a three-quarter side profile, body turned away while his head looks back toward the camera with a calm, confident, slightly intense expression. He wears a fitted black turtleneck and elegant black tailored coat.\n\nUse a deep teal and emerald studio background with soft gradients, subtle green rim light on the hair and shoulders, warm natural highlights on the face, cinematic soft shadows, shallow depth of field, realistic skin pores, detailed hair strands, 85mm lens look, luxury fashion editorial style, high contrast, photorealistic, ultra-detailed, 9:16 portrait.",
+    "image": "11.jpg",
+    "category": "style"
   }
 ]
