@@ -5,12 +5,5 @@
     "description": "test",
     "image": "3.jpg",
     "category": "mir"
-  },
-  {
-    "id": 6,
-    "title": "سلامتی جمع",
-    "description": "slm\nnhkh\n\ng\ng\nh\nh\n\nghh",
-    "image": "6.jpg",
-    "category": "love"
   }
 ]
