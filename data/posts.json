@@ -12,5 +12,12 @@
     "description": "Создай крупный портрет, не меняя черты лица. \nМеланхоличная luxury fashion-съёмка, которая выглядит как настоящий случайный кадр на смартфон, без ощущения постановочной фотосессии.\nДевушка находится посреди огромного поля с высокой дикой травой в густом утреннем тумане. Крупный план по грудь и лицо, но кадр имеет глубокую перспективу: передний план заполнен размытыми стеблями травы, которые частично перекрывают нижнюю часть кадра, затем появляется фигура девушки, а на заднем плане поле постепенно растворяется в плотном тумане. Многослойная композиция с ощущением пространства и глубины. Девушка с длинными густыми темными волосами, с безупречным макияжем, кожа загорелая, губы в оттенке пыльная Роза. \nДевушка стоит слегка боком к камере, корпус развёрнут на три четверти, одно плечо ближе к объективу, на смотрит в камеру , обнимая себя рукам , Поза естественная, расслабленная, без модельного напряжения.\nНа ней свободная белая оверсайз рубашка из тонкой ткани. Сильный порыв ветра создаёт реалистичное движение волос, ткани и травы",
     "image": "2.jpg",
     "category": "nature"
+  },
+  {
+    "id": 3,
+    "title": "👶👉🧓با این پرامپت میتونی گذر عمرتو ببینی",
+    "description": "Using the uploaded reference image, create a luxury age transformation portrait.\n\nShow five versions of the same person arranged diagonally from youngest to oldest.\n\nEach age stage must look genetically identical while reflecting realistic aging.\n\nDark studio background, premium magazine photography, cinematic lighting, realistic wrinkles and aging details, ultra realistic portrait, sophisticated composition, dramatic shadows, 4:5 format.",
+    "image": "3.jpg",
+    "category": "passage of time"
   }
 ]
