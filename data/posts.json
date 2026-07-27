@@ -54,5 +54,12 @@
     "description": "Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock. Add a distinct white outer outline layer surrounding each main character, resembling a thick sticker border or white cut-paper backing, clearly separating the characters from the background. This white layer should feel like an intentional paper layer, not a glow. Use a pastel color palette with muted blues, greens, and warm neutrals, balanced and calming. Lighting should feel soft, diffused, and even, enhancing the dimensional paper layers without harsh contrast. Textures should appear matte and tactile, like thick art paper or craft foam. Overall mood: cozy, wholesome, gentle, and storybook-like, with a playful yet polished handcrafted feel suitable for modern illustration, children's books, or decorative art.",
     "image": "8.jpg",
     "category": "more"
+  },
+  {
+    "id": 9,
+    "title": "☀️",
+    "description": "Close-up portrait of a woman (Same face as reference\nmageJooking directly at the camera. Her face and\nneck are mosty obscured by deep shadow. A single.\nnarow horizontal band of ight cuts across her face.\niluminating only her eyes and the bridge of his nose.\nHe has a strong. defined jawine and short,.textured\nlong hair. She is wearing a simple black shirt. The\nbackground is a plain. overcast grayish-blue sky.\nDramatic. high-contrast lighting creates a moody.\nCinematic atmosphere.",
+    "image": "9.jpg",
+    "category": "style"
   }
 ]
