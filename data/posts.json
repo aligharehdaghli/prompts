@@ -19,5 +19,12 @@
     "description": "Using the uploaded reference image, create a luxury age transformation portrait.\n\nShow five versions of the same person arranged diagonally from youngest to oldest.\n\nEach age stage must look genetically identical while reflecting realistic aging.\n\nDark studio background, premium magazine photography, cinematic lighting, realistic wrinkles and aging details, ultra realistic portrait, sophisticated composition, dramatic shadows, 4:5 format.",
     "image": "3.jpg",
     "category": "passage of time"
+  },
+  {
+    "id": 4,
+    "title": "Style",
+    "description": "Use my uploaded photo as the ONLY identity reference.\n\nPreserve my exact facial identity, facial proportions, skin tone, eyes, eyebrows, nose, lips, hairstyle, hair texture, beard density, and all unique facial features. Do not alter my face or make me look like another person.\n\nPose:\nMatch the reference pose exactly:\n· leaning slightly forward toward the camera\n· forearms resting on thighs\n· shoulders slightly forward\n· head slightly lowered\n· direct eye contact\n· serious expression with slightly frowned eyebrows\n· strong, confident masculine presence\n\nStyle:\nDark cinematic studio portrait, black t-shirt, thin silver chain necklace, dark blurred background.\n\nLighting:\nDramatic low-key lighting, soft side light, deep shadows, strong contrast, moody atmosphere.\n\nQuality:\nUltra-realistic professional DSLR portrait, shallow depth of field, natural skin texture, visible pores, realistic beard and hair details, natural color grading, no over-smoothing, no AI-looking skin.",
+    "image": "4.jpg",
+    "category": "more"
   }
 ]
