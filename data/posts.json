@@ -110,5 +110,12 @@
     "description": "Upload your reference image and paste this prompt:\nI have uploaded one reference photo of my face. Using the given image reconstruct my face accurately, place me in this exact subway station scene upper body portrait only. I am standing on platform, body slightly angled left, head tilted upward and to the right at 20-25 degrees, looking up past the camera with a deeply introspective melancholic expression - not looking at lens.\nThick black rectangular frame glasses. Dark black high-collar structured overcoat buttoned up. Directly behind me a subway train is rushing past at full speed\n- extreme horizontal motion blur filling entire background, silver-grey train body blur with vivid electric\nblue stripe streak and warm orange light streak within the blur. Cool teal-blue-green fluorescent overhead lighting falling on my face and hair from above. Subtle blue train light catching my right shoulder edge. Cool cinematic color grade - teal shadows, cool skin tone. Fine film grain. Do NOT paste my face - cool fluorescent teal light must fall naturally on my face from above with proper shadow, subtle blue rim on right shoulder, consistent cool color cast across face matching underground environment.",
     "image": "16.jpg",
     "category": "style"
+  },
+  {
+    "id": 17,
+    "title": "🎂",
+    "description": "Authentic smartphone photograph, iPhone color science, slightly overexposed natural light, 2K resolution, real-life candid quality, no studio lighting, no post-processing, UGC aesthetic, sharp subject, natural background.\nCreate a realistic image of a girl wearing a tight white t-shert sitting at a table in the dark, with a white birthday cake with beautiful tiny flowers all around the cake. There are 5 simple candles on the cake, the candles are lit, and the candlelight is on the girl's face. There is a vase on the table with a bouquet of orintal pink lilium inside. The girl's hair is open and flowing around her, with butterfly bangs. The girl has her hands under her chin in a wish-fulfilling pose, her eyes closed, and she is wishing for a happy birthday with a smile.medium shot.9:16,iphone shot.Skin details should be natural.keep same refrnce face .",
+    "image": "17.jpg",
+    "category": "birthday"
   }
 ]
