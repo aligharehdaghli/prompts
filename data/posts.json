@@ -173,5 +173,12 @@
     "description": "Premium minimalist fashion campaign.\nMain Subject: Young male model wearing an oversized warm clay overshirt.\nPose: Looking slightly past the camera with chin gently lowered.\nCamera: Eye-level portrait using a 50mm lens.\nBackground: Clay monochrome studio.\nLuxury editorial lighting.",
     "image": "25.jpg",
     "category": "style"
+  },
+  {
+    "id": 26,
+    "title": "👀",
+    "description": "2/3\ngenerate an image using the irises shown in the provided imagenes.place both irises enlarged, one on the left and one on the right in the center of the composition, against a black background.add a particle or stardust scattering effect between them that simulates a smooth transition or explosion.highlight the detalied texture of the iris fibers and color contrast. the atmosphere should be artistic, sharp, and with a touch of spatial depth",
+    "image": "26.jpg",
+    "category": "eyes"
   }
 ]
