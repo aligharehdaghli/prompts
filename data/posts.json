@@ -159,5 +159,12 @@
     "description": "Create a vertical 9:16 ultra-realistic photographic triptych collage using the uploaded reference image as the identity source. The face must remain exactly the same as the reference with no alteration to identity, facial structure, or unique features.\n\nThe image consists of three horizontal stacked frames:\n\nTop frame: extreme close-up of half the face, tilted angle composition. Focus on one eye and lips. Natural messy dark hair strands partially covering the face. Strong natural sunlight with sharp shadows.\n\nMiddle frame: ultra macro close-up of a single eye. The iris must be highly detailed with realistic texture, golden/hazel reflections, visible pores, eyelashes, and skin micro-details. Cinematic lighting with strong sunlight reflection.\n\nBottom frame: slightly wider close-up portrait showing both eyes, nose, and lips. Natural expression, slightly melancholic and thoughtful gaze. One hand gently touching the cheek/jawline. Loose hair strands across the forehead and face.\n\nLighting: intense natural daylight coming through a window, high contrast shadows, warm cinematic tones.\n\nStyle: ultra-realistic photography, iPhone 16 Pro Max look, 8K detail, shallow depth of field, natural skin texture with visible pores, no beauty filter, no plastic skin.\n\nColor palette: warm beige, cream, soft earth tones, subtle warm brown highlights.\n\nImportant: maintain exact identity from the reference image across all three frames. Do not change facial features, age, or structure. Only enhance realism and lighting.",
     "image": "23.jpg",
     "category": "4k"
+  },
+  {
+    "id": 24,
+    "title": "face",
+    "description": "Use 100% face above uploaded\nphoto\nTANPA MENGUBAH FITUR WAJAH\nSAYA, CIPTAKAN POTRET MODERN\nDAN BERGAYA DARI SEORANG PRIA\nMUDA DENGAN WAJAH REFERENSI\nYANG SAMA, RAMBUT\nBERANTAKAN, MENGENAKAN\nSWEATER WOL HITAM DAN PUTIH\nYANG LONGGAR. SATU-SATUNYA\nDILENGKAPI DENGAN JAM\nTANGAN. LATAR BELAKANGNYA\nLEMBUT, MINIMAL, DAN\nDIBURAMKAN SECARA HALUS\nUNTUK MENONJOLKAN VIFAC\nMODE-FORCE KONTEMPORER.\nPENCAHAYAAN SINEMATIK,\nTEKSTUR REALISTIS YANG SANGAT\nDETAIL, DAN ESTETIKA EDITORIAL\nYANG DIPOLES",
+    "image": "24.jpg",
+    "category": "4k"
   }
 ]
