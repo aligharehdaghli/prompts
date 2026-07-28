@@ -180,5 +180,12 @@
     "description": "2/3\ngenerate an image using the irises shown in the provided imagenes.place both irises enlarged, one on the left and one on the right in the center of the composition, against a black background.add a particle or stardust scattering effect between them that simulates a smooth transition or explosion.highlight the detalied texture of the iris fibers and color contrast. the atmosphere should be artistic, sharp, and with a touch of spatial depth",
     "image": "26.jpg",
     "category": "eyes"
+  },
+  {
+    "id": 27,
+    "title": "B&W",
+    "description": "This image is a dark studio portrait (low-key portrait) with a cinematic, fashion-oriented, and dramatic atmosphere.\nSubject: A young person with symmetrical facial features, smooth skin, and thick, voluminous curly hair falling across the forehead and partially covering the eyes.\nFacial Expression: A direct and intense gaze toward the camera, closed lips, and no smile. The expression conveys confidence, seriousness, calmness, and a subtle sense of mystery.\nPose: The body is slightly leaning forward, with the right hand positioned near the chin and lips. The pose is controlled, refined, and well-suited for fashion photography.\nClothing: A dark blazer with wide lapels layered over a black outfit, creating a minimalist, modern, and sophisticated style.\nAccessories: A metallic wristwatch on the wrist, serving as the only prominent reflective element in the image.\nLighting: Soft, directional lighting coming from the front and slightly above. Much of the frame remains in shadow, while the high contrast emphasizes the eyes, nose, facial contours, and bone structure.\nBackground: Completely plain and dark, free of distractions, ensuring that all attention remains focused on the subject.\nComposition: A vertical, tightly framed close portrait. The subject occupies most of the center of the frame, creating a strong visual connection with the viewer.\nColor and Texture: A monochromatic palette with subtle gray-blue undertones, highlighting the texture of the hair, the fabric of the blazer, and the reflective surface of the watch.\nOverall Mood: Luxurious, fashionable, mysterious, and cinematic, reminiscent of high-end editorial fashion magazine portraits or character posters from dramatic and psychological films.",
+    "image": "27.jpg",
+    "category": "style"
   }
 ]
