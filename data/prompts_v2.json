@@ -1,7 +1,219 @@
 [
   {
-    "title": "عنوان اول",
-    "description": "توضیحات کامل",
-    "category": "دسته‌بندی"
+    "id": 1,
+    "title": "Flower",
+    "description": "Close-up side-profile portrait of a young woman with subtle motion blur, holding a sunflower in front of her face. Clean white wall background, chic, luxurious, and minimalist aesthetic. Shot in a dark environment using direct camera flash. Vertical 9:16 composition.",
+    "image": "1.jpg",
+    "category": "4k"
+  },
+  {
+    "id": 2,
+    "title": "forest",
+    "description": "Создай крупный портрет, не меняя черты лица. \nМеланхоличная luxury fashion-съёмка, которая выглядит как настоящий случайный кадр на смартфон, без ощущения постановочной фотосессии.\nДевушка находится посреди огромного поля с высокой дикой травой в густом утреннем тумане. Крупный план по грудь и лицо, но кадр имеет глубокую перспективу: передний план заполнен размытыми стеблями травы, которые частично перекрывают нижнюю часть кадра, затем появляется фигура девушки, а на заднем плане поле постепенно растворяется в плотном тумане. Многослойная композиция с ощущением пространства и глубины. Девушка с длинными густыми темными волосами, с безупречным макияжем, кожа загорелая, губы в оттенке пыльная Роза. \nДевушка стоит слегка боком к камере, корпус развёрнут на три четверти, одно плечо ближе к объективу, на смотрит в камеру , обнимая себя рукам , Поза естественная, расслабленная, без модельного напряжения.\nНа ней свободная белая оверсайз рубашка из тонкой ткани. Сильный порыв ветра создаёт реалистичное движение волос, ткани и травы",
+    "image": "2.jpg",
+    "category": "nature"
+  },
+  {
+    "id": 3,
+    "title": "👶👉🧓با این پرامپت میتونی گذر عمرتو ببینی",
+    "description": "Using the uploaded reference image, create a luxury age transformation portrait.\n\nShow five versions of the same person arranged diagonally from youngest to oldest.\n\nEach age stage must look genetically identical while reflecting realistic aging.\n\nDark studio background, premium magazine photography, cinematic lighting, realistic wrinkles and aging details, ultra realistic portrait, sophisticated composition, dramatic shadows, 4:5 format.",
+    "image": "3.jpg",
+    "category": "passage of time"
+  },
+  {
+    "id": 4,
+    "title": "Style",
+    "description": "Use my uploaded photo as the ONLY identity reference.\n\nPreserve my exact facial identity, facial proportions, skin tone, eyes, eyebrows, nose, lips, hairstyle, hair texture, beard density, and all unique facial features. Do not alter my face or make me look like another person.\n\nPose:\nMatch the reference pose exactly:\n· leaning slightly forward toward the camera\n· forearms resting on thighs\n· shoulders slightly forward\n· head slightly lowered\n· direct eye contact\n· serious expression with slightly frowned eyebrows\n· strong, confident masculine presence\n\nStyle:\nDark cinematic studio portrait, black t-shirt, thin silver chain necklace, dark blurred background.\n\nLighting:\nDramatic low-key lighting, soft side light, deep shadows, strong contrast, moody atmosphere.\n\nQuality:\nUltra-realistic professional DSLR portrait, shallow depth of field, natural skin texture, visible pores, realistic beard and hair details, natural color grading, no over-smoothing, no AI-looking skin.",
+    "image": "4.jpg",
+    "category": "more"
+  },
+  {
+    "id": 5,
+    "title": "mirror",
+    "description": "«Use the exact face and identity from the reference image with zero modifications. Preserve facial geometry, proportions, skin tone, facial features, and personal identity exactly as in the source photo.»\nFashion - forward woman caught in a side mirror reflection, wind in her hair, fox-eye lashes, winged eyeliner, glossy lips, and a soft confident expression, oversized white shirt falling off the shoulder, taken with an iPhone 16 pro in natural light, urban background with stones texture and chrome car parts. ar 3:4",
+    "image": "5.jpg",
+    "category": "style"
+  },
+  {
+    "id": 6,
+    "title": "cigarettes",
+    "description": "Use the uploaded portrait as the strict identity reference for the character’s face. Preserve the exact facial identity from the uploaded image, including facial structure, eyes, eyebrows, nose, lips, jawline, ears, skin tone, skin texture, hairstyle, hairline, hair color, facial hair if present, age impression, and overall recognizable likeness. Do not beautify, stylize, change, regenerate, or reinterpret the face. Only adapt the face naturally to the new lighting, shadows, camera angle, haze, and cinematic atmosphere. A low-angle, close-up shot captures the same person from the uploaded image sitting in a dimly lit setting, partially obscured by large yellow-orange flames dominating the right side of the frame. The character is dressed in a relaxed, patterned light-colored shirt with prominent buttons and leans back with a languid posture, holding a cigarette near the mouth with one hand and a drink or small object with the other. The face must remain identical to the uploaded portrait, but it is partially obscured by shadows and haze, illuminated by flickering firelight that casts dramatic warm highlights and diffuse shadows across the features while enhancing the existing facial structure with cinematic sharpness. The background is a deep, nearly black, indistinct space, reinforcing a sense of isolation. The color palette focuses on earthy browns, ochres, and dark sepias, with the fire’s orange glow as the main accent. The image should feel moody, gritty, introspective, intimate, and intense. The overall softness, muted colors, slight haze, film grain, and post-production texture should suggest a still from a digital cinematic film. Keep the uploaded person’s face recognizable and unchanged. Do not replace the face with a new model. Do not change the facial proportions, expression identity, hairstyle, age, or defining facial details. Only change the pose, clothing, lighting, environment, and cinematic firelit atmosphere.",
+    "image": "6.jpg",
+    "category": "style"
+  },
+  {
+    "id": 7,
+    "title": "mirror",
+    "description": "PROMPT SETTINGS\nSunglasses Color: Black\nPhone Color: Black\nCar Interior Color: Beige\nLighting: Golden Hour\nMood: Casual Instagram Selfie\nMAIN PROMPT\nUpload one reference image before generating.\nCreate an ultra-realistic vanity mirror selfie inside a car using the uploaded image as the only identity reference.\nFORMAT LOCK\nVertical 4:5 composition. Authentic smartphone selfie aesthetic. Natural social-media photograph. Realistic iPhone-camera quality.\nIDENTITY LOCK\nPreserve the exact facial structure, facial proportions, smile style, skin tone, hairstyle, hair texture, hair length, eyebrows, eyes, nose, lips, jawline, and overall identity. Do not beautify, redesign, or modify facial features. The final result must look like the exact same person photographed naturally.\nCOMPOSITION — CRITICAL\nThe selfie is captured through a car sun-visor vanity mirror.\nThe mirror occupies only the central portion of the frame.\nThe {{Car Interior Color}} car interior naturally fills the upper and lower areas of the image.\nFraming should feel spontaneous, slightly imperfect, casual, and naturally captured rather than professionally staged.\nSELFIE DETAILS\nSubject holding a {{Phone Color}} smartphone very close to the mirror.\nPhone partially covers the face naturally.\n{{Sunglasses Color}} rectangular sunglasses partially cover one eye.\nSubtle closed-mouth smile.\nRelaxed and confident expression.\nTiny earrings visible.\nGlossy nude nails visible.\nLoose hair strands around the sunglasses.\nNatural skin texture and pores preserved.\nLIGHTING\n{{Lighting}} sunlight entering softly through the car windows.\nWarm highlights across skin, hair, sunglasses, and phone edges.\nGentle realistic shadows.\nNatural light falloff.\nAuthentic smartphone-camera exposure.\nCOLOR GRADING\nMuted warm tones.\nCreamy color palette.\nSoftly desaturated colors.\nLifted blacks.\nNatural skin tones.\nPremium lifestyle-photography aesthetic.\nCAMERA QUALITY\nModern iPhone-camera realism.\nSlight natural softness.\nRealistic reflections in the mirror.\nSubtle sensor noise.\nAuthentic smartphone dynamic range.\nNatural focus falloff.\nNo artificial sharpening.\nMOOD\n{{Mood}}\nEffortless aesthetic.\nCozy.\nPremium.\nCandid.\nInstagram-worthy.\nBelievable real-life snapshot.\nOUTPUT STYLE\nUltra-realistic iPhone selfie, vanity-mirror photography, golden-hour car portrait, authentic social-media image, realistic smartphone photography, premium lifestyle aesthetic, highly detailed natural rendering.\nNEGATIVE PROMPT\nAvoid beauty filters, excessive retouching, HDR effects, cinematic grading, studio lighting, AI-generated appearance, unrealistic skin, exaggerated makeup, perfect symmetry, fashion-editorial styling, over-sharpening, distorted reflections, text, watermarks, or altered identity.\nMake the aspect ratio 3:4",
+    "image": "7.jpg",
+    "category": "style"
+  },
+  {
+    "id": 8,
+    "title": "پرامپت کاغذی",
+    "description": "Convert this image into a soft, handcrafted paper-cut layered illustration style, inspired by papercraft diorama aesthetics. Use smooth rounded shapes, simplified cute character proportions, and minimal facial details (dot eyes, blush cheeks) to create a warm, charming look. Apply stacked paper layers with visible depth, subtle shadows between layers, and clean cut edges that resemble laser-cut cardstock. Add a distinct white outer outline layer surrounding each main character, resembling a thick sticker border or white cut-paper backing, clearly separating the characters from the background. This white layer should feel like an intentional paper layer, not a glow. Use a pastel color palette with muted blues, greens, and warm neutrals, balanced and calming. Lighting should feel soft, diffused, and even, enhancing the dimensional paper layers without harsh contrast. Textures should appear matte and tactile, like thick art paper or craft foam. Overall mood: cozy, wholesome, gentle, and storybook-like, with a playful yet polished handcrafted feel suitable for modern illustration, children's books, or decorative art.",
+    "image": "8.jpg",
+    "category": "more"
+  },
+  {
+    "id": 9,
+    "title": "☀️",
+    "description": "Close-up portrait of a woman (Same face as reference\nmageJooking directly at the camera. Her face and\nneck are mosty obscured by deep shadow. A single.\nnarow horizontal band of ight cuts across her face.\niluminating only her eyes and the bridge of his nose.\nHe has a strong. defined jawine and short,.textured\nlong hair. She is wearing a simple black shirt. The\nbackground is a plain. overcast grayish-blue sky.\nDramatic. high-contrast lighting creates a moody.\nCinematic atmosphere.",
+    "image": "9.jpg",
+    "category": "style"
+  },
+  {
+    "id": 10,
+    "title": "وایب قدیمی",
+    "description": "Use my uploaded photo as the face reference and preserve my exact facial features, hairstyle, skin tone, body proportions, and identity. Replace the person in the reference scene with me while keeping the exact same composition, pose, camera angle, framing, perspective, and background.\nI am sitting casually on the hood of a vintage black sedan in a busy parking lot at night, in front of a glowing retro neon gym sign. The atmosphere has a nostalgic 1990s American aesthetic with parked classic cars, warm tungsten lighting, colorful neon reflections, and cinematic nighttime ambience.\nOutfit: oversized dark hoodie, light blue jeans, white sneakers.\nShot on a vintage instant camera with direct flash, slightly overexposed highlights, soft focus, subtle film grain, faded colors, dust particles, scratches, authentic Polaroid texture, analog photography, nostalgic mood.\nKeep the pose, facial expression, hand placement, body position, camera distance, and overall composition identical to the reference image. Only replace the person with me. Ultra-realistic. 9:16.",
+    "image": "10.jpg",
+    "category": "style"
+  },
+  {
+    "id": 11,
+    "title": "🔥",
+    "description": "Create an ultra-realistic cinematic studio portrait of the same man from the uploaded personal reference photo. His face must closely and naturally match the reference, preserving his exact identity, face shape, eyes, eyebrows, nose, lips, jawline, beard pattern, hairstyle, skin tone, and realistic proportions. Do not beautify, reshape, or alter his identity.\n\nPose him in a three-quarter side profile, body turned away while his head looks back toward the camera with a calm, confident, slightly intense expression. He wears a fitted black turtleneck and elegant black tailored coat.\n\nUse a deep teal and emerald studio background with soft gradients, subtle green rim light on the hair and shoulders, warm natural highlights on the face, cinematic soft shadows, shallow depth of field, realistic skin pores, detailed hair strands, 85mm lens look, luxury fashion editorial style, high contrast, photorealistic, ultra-detailed, 9:16 portrait.",
+    "image": "11.jpg",
+    "category": "style"
+  },
+  {
+    "id": 12,
+    "title": "sharpness",
+    "description": "Prompt: Ultra-high-resolution 4K enhancement based strictly on the provided reference image. Absolute fidelity to original facial anatomy, proportions, and identity. Preserve expression, gaze, pose, camera angle, framing, and perspective with zero deviation. Clothing, hair, skin, and background elements must remain unchanged in structure, placement, and design.\n\nRecover fine-grain detail with natural realism. Enhance pores, fine lines, hair strands, eyelashes, fabric weave, seams, and material edges without introducing stylization. Maintain original color science, white balance, and tonal relationships exactly as captured. Lighting direction, intensity, contrast, and shadow behavior must match the source image precisely, with only improved clarity and expanded dynamic range. No relighting, no reshaping. Remove any grain.\n\nApply controlled sharpening and high-frequency detail reconstruction. Remove compression artifacts and noise while retaining authentic texture. No smoothing, no plastic skin, no artificial gloss. Facial features must remain consistent across the entire image with coherent anatomy and clean, stable edges.\n\nNegative constraints: no warping, no facial drift, no added or missing anatomy, no altered hands, no distortions, no perspective shift, no text or graphics, no hallucinated detail, no stylized rendering. Output must read as a true-to-life, photorealistic upscale that matches the reference exactly, only clearer, sharper, and higher resolution.",
+    "image": "12.jpg",
+    "category": "4k"
+  },
+  {
+    "id": 13,
+    "title": "makeup",
+    "description": "ultra realistic iPhone portrait, EXTREME close-up face only, identical face transfer from reference image, preserve exact facial structure, skin tone, lips shape, eyes, proportions.\n\nmakeup EXACT as reference: sharp feline cat-eye eyeliner, elongated outer corners, deep lash definition, black wet-look lashes clumped into spikes, glossy lips, subtle warm contour, no soft makeup, no natural look.\n\neyes: seductive cat gaze, looking slightly to the side (same direction as reference), half-lidded, intense, confident.\n\nlighting: golden hour sunset, strong warm sunlight from side, deep shadows across face, high contrast, sculpted light, cinematic depth, no flat lighting.\n\nfabric: black sheer textured scarf wrapped tightly around head and lower face, identical wrapping style, covering nose and mouth, visible fabric grain.\n\nskin: glowing, slightly dewy, natural texture visible, no blur.\n\ncamera: iPhone realism, sharp micro-details, HDR controlled, depth, no over-smoothing.\n\nSTRICT: match reference mood, contrast, gaze, makeup, lighting, composition exactly, no reinterpretation.copy my face 100%",
+    "image": "13.jpg",
+    "category": "style"
+  },
+  {
+    "id": 14,
+    "title": "men",
+    "description": "Ultra realistic luxury men's fashion editorial collage featuring the same handsome young man in six different cinematic lifestyle portraits, arranged in a clean magazine inspired grid with thin white borders separating each frame. Every panel features the same person, wearing the same outfit, photographed during warm golden hour inside a modern minimalist apartment.\n\nThe subject has naturally wavy medium length dark brown hair with soft volume and textured curls falling over the forehead, thick eyebrows, warm olive skin, a sharp defined jawline, high cheekbones, straight nose, subtle stubble, full lips, and a calm, mysterious expression. His appearance is effortlessly elegant and masculine.\n\nHe wears an oversized ivory white linen button up shirt with the top three buttons casually undone, exposing part of the collarbone and chest, sleeves loosely rolled to the forearms, paired with tailored black trousers. Accessories include a stainless steel luxury wristwatch, a thin silver bracelet, a minimalist necklace, and a subtle silver ring.\n\nThe lighting is entirely natural golden hour sunlight streaming through large windows fitted with Venetian blinds, creating dramatic horizontal shadow patterns across the face, shirt, walls, and furniture. The warm amber sunlight produces cinematic contrast, soft highlights, realistic skin glow, and rich atmospheric depth.\n\nPanel 1: Close side profile portrait looking toward the window, strong jawline highlighted by warm sunlight, relaxed expression, dramatic blind shadows crossing the neck and cheek.\n\nPanel 2: Medium portrait sitting beside a window, body turned slightly sideways while gazing outside thoughtfully, relaxed posture with one arm resting on the knee.\n\nPanel 3: Tight emotional close up with both hands gently covering part of the mouth, luxury wristwatch prominently visible, eyes partially hidden by soft hair, cinematic shadow patterns across the face.\n\nPanel 4: Casual mirror selfie holding a black smartphone in one hand while seated indoors, soft sunlight illuminating the shirt and face, relaxed fashion aesthetic.\n\nPanel 5: Wide lifestyle portrait sitting comfortably in a vintage wooden chair, legs crossed naturally, one hand touching the face while surrounded by warm evening light, minimalist interior visible.\n\nPanel 6: Close portrait from behind and slightly to the side, hand resting on the back of the neck while looking away toward the sunlight, emphasizing profile, neck, and soft hair texture.\n\nThe environment features warm beige walls, wooden furniture, linen curtains, indoor plants, subtle decor, and a calm minimalist apartment with Scandinavian and Japanese inspired interior design. Soft shadows, realistic room depth, and clean architectural lines create an intimate atmosphere.\n\nPhotography style: luxury fashion editorial, GQ magazine, Vogue Homme, Zara campaign, COS campaign, premium lifestyle photography, cinematic storytelling, minimalist composition, moody golden hour aesthetic, natural window light only, photorealistic skin texture, ultra detailed hair strands, realistic linen fabric wrinkles, HDR, razor sharp focus, shallow depth of field, 85mm lens, f/1.8, ISO 100, 8K UHD, color graded with warm amber tones, award winning editorial photography, clean magazine layout, ultra premium aesthetic, --ar 4:5",
+    "image": "14.jpg",
+    "category": "style"
+  },
+  {
+    "id": 15,
+    "title": "men",
+    "description": "Create a premium double-exposure portrait of the uploaded man. The composition should match the reference image exactly: a large blended head-and-shoulders portrait occupying the upper 70% of the frame, softly fading into a dreamy misty background. The man is looking slightly to the side with a confident, calm expression. He has stylish black sunglasses, well-groomed hair, and wears a fitted black shirt.\n\nIn the lower center, place a smaller, full-body version of the same man standing confidently, wearing a fashionable black outfit with modern styling. Keep the body size similar to the reference image. The large portrait and the smaller standing figure should blend together seamlessly through soft clouds, mist, and cinematic light effects.\n\nUse luxury fashion magazine photography style, ultra-realistic details, soft atmospheric glow, subtle depth, elegant color grading, premium Photoshop composite artwork, high-end editorial look, dramatic yet clean lighting, smooth skin details, realistic fabric texture, and a sophisticated masculine aesthetic.\n\nKeep a thin, elegant frame around the image. The background should be dreamy, airy, and lightly textured with soft clouds and haze. No text, no logos, no extra objects. Vertical 9:16 ratio suitable for Instagram and Facebook posts.",
+    "image": "15.jpg",
+    "category": "more"
+  },
+  {
+    "id": 16,
+    "title": "men",
+    "description": "Upload your reference image and paste this prompt:\nI have uploaded one reference photo of my face. Using the given image reconstruct my face accurately, place me in this exact subway station scene upper body portrait only. I am standing on platform, body slightly angled left, head tilted upward and to the right at 20-25 degrees, looking up past the camera with a deeply introspective melancholic expression - not looking at lens.\nThick black rectangular frame glasses. Dark black high-collar structured overcoat buttoned up. Directly behind me a subway train is rushing past at full speed\n- extreme horizontal motion blur filling entire background, silver-grey train body blur with vivid electric\nblue stripe streak and warm orange light streak within the blur. Cool teal-blue-green fluorescent overhead lighting falling on my face and hair from above. Subtle blue train light catching my right shoulder edge. Cool cinematic color grade - teal shadows, cool skin tone. Fine film grain. Do NOT paste my face - cool fluorescent teal light must fall naturally on my face from above with proper shadow, subtle blue rim on right shoulder, consistent cool color cast across face matching underground environment.",
+    "image": "16.jpg",
+    "category": "style"
+  },
+  {
+    "id": 17,
+    "title": "🎂",
+    "description": "Authentic smartphone photograph, iPhone color science, slightly overexposed natural light, 2K resolution, real-life candid quality, no studio lighting, no post-processing, UGC aesthetic, sharp subject, natural background.\nCreate a realistic image of a girl wearing a tight white t-shert sitting at a table in the dark, with a white birthday cake with beautiful tiny flowers all around the cake. There are 5 simple candles on the cake, the candles are lit, and the candlelight is on the girl's face. There is a vase on the table with a bouquet of orintal pink lilium inside. The girl's hair is open and flowing around her, with butterfly bangs. The girl has her hands under her chin in a wish-fulfilling pose, her eyes closed, and she is wishing for a happy birthday with a smile.medium shot.9:16,iphone shot.Skin details should be natural.keep same refrnce face .",
+    "image": "17.jpg",
+    "category": "birthday"
+  },
+  {
+    "id": 18,
+    "title": "girl",
+    "description": "SUBJECT:\nA woman in full motorcycle gear, viewed from a slightly low angle, head tilted and rotated to the left (her right), with the right side of the helmet angled towards the camera.\nFACE:\npreserve the uploaded subject's exact facial identity, facial proportions, facial structure, skin tone, natural facial asymmetries, hair color, hair length and all unique facial characteristics, only the eyes, eyebrows, and a portion of the cheek are visible, covered from the nose down by a black balaclava.\nEYES:\nBright, striking green eyes, looking intensely and directly at the camera, framed by defined dark eyebrows and mascaraed eyelashes. Small wrinkles are visible around the outer corners.\nPOSE:\nThe head is tilted significantly to the left and angled, creating a dynamic perspective. Her body is slightly rotated. Her left hand (on the right side of the frame) is raised, gloved in black leather, with the palm pressed against her left cheek and the helmet padding, with fingers slightly curled.\nCLOTHING:\nWearing a glossy black full-face motorcycle helmet with a detailed chin vent and inner padding (dark blue and black mesh). A black balaclava covers the lower face. She is wearing a black technical riding jacket (textile and leather, with grey mesh sections on the shoulder), with only the shoulder and collar visible.\nLIGHTING:\nNatural daylight, coming from the top-left, casting soft, natural shadows inside the helmet and under the chin. The green eyes catch a distinct glint.\nBACKGROUND:\nHeavily blurred, out-of-focus background showing an urban outdoor scene: on the left, a multi-story building and road; on the right, some dry grass and power lines under a clear sky, all washed in soft daylight.\nCOMPOSITION:\nClose-up, focused tightly on the eyes within the helmet frame. The composition uses the angled head and hand placement to create diagonal leading lines. The background bokeh is smooth and unobtrusive.\nCOLOR GRADING:\nNatural, photorealistic color palette with a emphasis on the vibrant green eyes and deep black fabrics.\nREALISM:\nHigh-definition, high-detail photorealistic rendering with accurate skin texture and fabric weave visible.\nQUALITY:\nSharp focus on the eyes, natural depth of field, natural film grain, clean rendering.\nNEGATIVE PROMPT:\ncartoon, illustration, low resolution, blurry, distorted face, open mouth, missing helmet, wrong eye color, incorrect hand position, artificial lighting, no balaclava",
+    "image": "18.jpg",
+    "category": "style"
+  },
+  {
+    "id": 19,
+    "title": "Story",
+    "description": "New prompt:\nCreative Story promt🐭\nObject → Doodle World\n    Analyze the uploaded photo first. Identify the main object’s shape, texture, silhouette & color. Enhance photo naturally (brightness, contrast, WB, sharpness, clarity, HD) without changing composition. Creatively transform the object into a unique hand-drawn doodle scene where the real object becomes an essential part (not covered/replaced). Let the object’s geometry drive the idea, not common doodle tropes. Before drawing, imagine 5 concepts, choose the most original. Blend doodles seamlessly with the photo. Style: whimsical, kawaii, cozy, storybook, playful, minimalist. Never repeat concepts or default to girls/rabbits/cats.",
+    "image": "19.jpg",
+    "category": "more"
+  },
+  {
+    "id": 20,
+    "title": "paper",
+    "description": "Ultra-realistic monochrome graphite pencil sketch collage on textured white sketchbook paper, featuring multiple highly detailed portraits of the same intelligent young South Asian man shown in different thoughtful poses and professional settings. He has thick wavy black hair, a neatly trimmed beard and mustache, expressive dark eyes, and wears a traditional black waistcoat over a white kurta in most scenes, with one elegant black double-breasted suit. His expression remains calm, confident, analytical, and composed throughout the composition.\n\nThe page is arranged like an artist's concept board or personal journal, filled with hand-drawn illustrations, handwritten notes, inspirational quotes, diagrams, books, world maps, chess pieces, diplomatic symbols, and miniature chibi versions of the character. Every element is rendered in realistic graphite with delicate cross-hatching, soft shading, pencil textures, smudging, and fine sketch lines.\n\nAround the portraits are visual storytelling elements including stacks of books on diplomacy, geopolitics, strategy, international relations, and history; notebooks filled with handwritten observations; fountain pen and ink; globe; world maps connected by arrows; handshake illustration; strategic flowcharts; Venn diagrams; checklists; daily ritual lists; chess king piece; coffee mug; laptop; flags; landmark monuments; and numerous handwritten motivational reflections.\n\nSmall cartoon chibi versions of the man appear across the page wearing sunglasses, holding books, working on a laptop, carrying a globe, holding humorous signs, and expressing quiet confidence, adding playful personality while maintaining the sophisticated aesthetic.\n\nHandwritten typography is scattered naturally throughout the artwork with quotes about diplomacy, leadership, observation, strategy, purpose, peacebuilding, critical thinking, realism, patience, and impact. Everything feels like pages from a brilliant strategist's visual notebook.\n\nThe overall composition is dense yet balanced, with overlapping sketches, clean negative space, and organic notebook-style organization. Hyper-detailed graphite rendering, museum-quality pencil illustration, ultra-fine linework, realistic paper grain, subtle smudge textures, editorial concept art, monochrome black-and-white aesthetic, cinematic lighting, masterful traditional sketching, highly intricate, 8K, ultra-sharp, professional concept sheet, Behance-quality portfolio artwork.",
+    "image": "20.jpg",
+    "category": "more"
+  },
+  {
+    "id": 21,
+    "title": "girl",
+    "description": "A grainy smartphone-style photo. A mirror selfie taken on an iPhone 16 Pro Max in a semi-dark room with a minimalist interior. A girl is holding a huge bouquet of white lilies and gypsophila with long stems in front of her chest; her body is slightly curved, her head is tilted, and the phone partially hides her face. Her hair is very long with light waves at the ends. She is wearing a white men’s shirt that is slipping off one shoulder, revealing her shoulder and collarbone. Evening light from the window creates deep shadows and a night atmosphere (the window is not visible in the frame), muted cold tones, cozy aesthetic. Light digital noise, soft sharpness, muted colors, light vintage grain, candid shot effect, dim lighting, bright saturation, light grain/noise for film aesthetics, low contrast, aesthetic vibe, and shadows that emphasize facial features. Copy my face 100%. Size 9:16",
+    "image": "21.jpg",
+    "category": "style"
+  },
+  {
+    "id": 22,
+    "title": "👶👉🧓",
+    "description": "Create a hyper-realistic age progression portrait sequence of the same female individual across 4 major life stages: child (age 6), young adult (age 25), middle-aged man (age 45), and elderly man (age 75+). Use the attached child’s face as the exact identity reference for the youngest stage and ensure every age stage looks like the exact same person naturally aging over time, preserving identical facial structure, nose shape, eye color, jawline, skin tone, eyebrow structure, lips, and facial proportions consistently across all ages. Arrange all four faces in a tightly compressed overlapping side-stacked composition exactly like a professional photographic age progression lineup. Each face should be front-facing, tightly cropped, and positioned slightly behind the previous one from front to back, creating a smooth layered progression from youngest to oldest. Maintain nearly equal face scale across all stages with minimal perspective distortion. Faces should overlap naturally and remain very close together with clean simple spacing, similar to a studio portrait stacking composition. No geometric panels, no cinematic scene composition, no excessive depth effect, no dramatic perspective. Pure white seamless studio background, soft neutral studio lighting, realistic skin texture, natural aging details, plain neutral clothing, ultra photo-realistic, highly detailed, sharp focus, professional portrait photography, seamless identity consistency across all ages. No corp. Aspect ratio 4:5, no text, no logo.",
+    "image": "22.jpg",
+    "category": "passage of time"
+  },
+  {
+    "id": 23,
+    "title": "face",
+    "description": "Create a vertical 9:16 ultra-realistic photographic triptych collage using the uploaded reference image as the identity source. The face must remain exactly the same as the reference with no alteration to identity, facial structure, or unique features.\n\nThe image consists of three horizontal stacked frames:\n\nTop frame: extreme close-up of half the face, tilted angle composition. Focus on one eye and lips. Natural messy dark hair strands partially covering the face. Strong natural sunlight with sharp shadows.\n\nMiddle frame: ultra macro close-up of a single eye. The iris must be highly detailed with realistic texture, golden/hazel reflections, visible pores, eyelashes, and skin micro-details. Cinematic lighting with strong sunlight reflection.\n\nBottom frame: slightly wider close-up portrait showing both eyes, nose, and lips. Natural expression, slightly melancholic and thoughtful gaze. One hand gently touching the cheek/jawline. Loose hair strands across the forehead and face.\n\nLighting: intense natural daylight coming through a window, high contrast shadows, warm cinematic tones.\n\nStyle: ultra-realistic photography, iPhone 16 Pro Max look, 8K detail, shallow depth of field, natural skin texture with visible pores, no beauty filter, no plastic skin.\n\nColor palette: warm beige, cream, soft earth tones, subtle warm brown highlights.\n\nImportant: maintain exact identity from the reference image across all three frames. Do not change facial features, age, or structure. Only enhance realism and lighting.",
+    "image": "23.jpg",
+    "category": "4k"
+  },
+  {
+    "id": 24,
+    "title": "face",
+    "description": "Use 100% face above uploaded\nphoto\nTANPA MENGUBAH FITUR WAJAH\nSAYA, CIPTAKAN POTRET MODERN\nDAN BERGAYA DARI SEORANG PRIA\nMUDA DENGAN WAJAH REFERENSI\nYANG SAMA, RAMBUT\nBERANTAKAN, MENGENAKAN\nSWEATER WOL HITAM DAN PUTIH\nYANG LONGGAR. SATU-SATUNYA\nDILENGKAPI DENGAN JAM\nTANGAN. LATAR BELAKANGNYA\nLEMBUT, MINIMAL, DAN\nDIBURAMKAN SECARA HALUS\nUNTUK MENONJOLKAN VIFAC\nMODE-FORCE KONTEMPORER.\nPENCAHAYAAN SINEMATIK,\nTEKSTUR REALISTIS YANG SANGAT\nDETAIL, DAN ESTETIKA EDITORIAL\nYANG DIPOLES",
+    "image": "24.jpg",
+    "category": "4k"
+  },
+  {
+    "id": 25,
+    "title": "men",
+    "description": "Premium minimalist fashion campaign.\nMain Subject: Young male model wearing an oversized warm clay overshirt.\nPose: Looking slightly past the camera with chin gently lowered.\nCamera: Eye-level portrait using a 50mm lens.\nBackground: Clay monochrome studio.\nLuxury editorial lighting.",
+    "image": "25.jpg",
+    "category": "style"
+  },
+  {
+    "id": 26,
+    "title": "👀",
+    "description": "2/3\ngenerate an image using the irises shown in the provided imagenes.place both irises enlarged, one on the left and one on the right in the center of the composition, against a black background.add a particle or stardust scattering effect between them that simulates a smooth transition or explosion.highlight the detalied texture of the iris fibers and color contrast. the atmosphere should be artistic, sharp, and with a touch of spatial depth",
+    "image": "26.jpg",
+    "category": "eyes"
+  },
+  {
+    "id": 27,
+    "title": "B&W",
+    "description": "This image is a dark studio portrait (low-key portrait) with a cinematic, fashion-oriented, and dramatic atmosphere.\nSubject: A young person with symmetrical facial features, smooth skin, and thick, voluminous curly hair falling across the forehead and partially covering the eyes.\nFacial Expression: A direct and intense gaze toward the camera, closed lips, and no smile. The expression conveys confidence, seriousness, calmness, and a subtle sense of mystery.\nPose: The body is slightly leaning forward, with the right hand positioned near the chin and lips. The pose is controlled, refined, and well-suited for fashion photography.\nClothing: A dark blazer with wide lapels layered over a black outfit, creating a minimalist, modern, and sophisticated style.\nAccessories: A metallic wristwatch on the wrist, serving as the only prominent reflective element in the image.\nLighting: Soft, directional lighting coming from the front and slightly above. Much of the frame remains in shadow, while the high contrast emphasizes the eyes, nose, facial contours, and bone structure.\nBackground: Completely plain and dark, free of distractions, ensuring that all attention remains focused on the subject.\nComposition: A vertical, tightly framed close portrait. The subject occupies most of the center of the frame, creating a strong visual connection with the viewer.\nColor and Texture: A monochromatic palette with subtle gray-blue undertones, highlighting the texture of the hair, the fabric of the blazer, and the reflective surface of the watch.\nOverall Mood: Luxurious, fashionable, mysterious, and cinematic, reminiscent of high-end editorial fashion magazine portraits or character posters from dramatic and psychological films.",
+    "image": "27.jpg",
+    "category": "style"
+  },
+  {
+    "id": 28,
+    "title": "men",
+    "description": "A portrait of a young male with a neat beard and short dark hair styled in a textured quiff, measuring two to three inches on top with faded half-inch sides. His hair is pushed upward and forward with matte clay, showing a slight natural wave, visible natural growth patterns, no harsh part, and subtle flyaways catching against the sky on the left edge. He holds a deliberately posed, serious expression with a closed mouth, neutral eyebrows, and a direct gaze facing the camera. Wearing a crisp white t-shirt and jeans, he stands with level shoulders, his weight leaning slightly to the right. His left hand is tucked into his front left jeans pocket with the thumb hidden, revealing a silver watch on his wrist, while his relaxed right hand rests naturally on a brushed metal top rail with fingers spread and draped gently over the downward edge of a pristine glass balcony railing. This foreground glass and metal barrier sweeps from the bottom left toward the center, opening up to a deep outdoor spatial depth. The blurred midground features weathered urban buildings constructed from raw, cool blue-gray matte concrete with patchy, slightly textured facades, dense overlapping rooftops, and scattered glowing interior lights. In the deep background on the top left, the aged historic stone structure of the Galata Tower stands prominently, its conical top illuminated. The scene is bathed in mixed, diffused frontal soft fill flash of moderate intensity and neutral temperature, creating a calm, sophisticated twilight mood. Subtle highlights gently illuminate the subject's forehead and nose bridge, while soft, gradual gray shadows fall under his chin and behind his right arm. The complementary color palette balances the crisp white of his shirt with a dominant twilight blue atmosphere and delicate accents of sunset peach along a warm horizon gradient. Captured as a tack-sharp, grain-free digital photograph using an 85mm lens at f/2.8 for a medium depth of field that smoothly blurs the cityscape, this straight-on perspective is influenced by clean urban lifestyle photography and features post-processing with cool shadows and subtle skin smoothing, all perfectly framed in a 3:4 aspect ratio.",
+    "image": "28.jpg",
+    "category": "4k"
+  },
+  {
+    "id": 29,
+    "title": "sunglass",
+    "description": "Portrait of a stylish young man with wavy light brown hair and a short beard, wearing reflective aviator sunglasses and a black tshirt . He is posing confidently in front of a solid teal background. Modern fashion style, sharp details, strong lighting, and a matching color theme with a cool, confident attitude",
+    "image": "29_1785272649280.jpg",
+    "category": "4k"
+  },
+  {
+    "id": 30,
+    "title": "B&W",
+    "description": "Create a hyper-realistic 8K cinematic black-and-white portrait of the uploaded person in a dramatic chiaroscuro style. The subject is seated at a three-quarter angle, leaning slightly forward with a relaxed yet commanding posture. His face is turned slightly away from the camera,not looking at the lens, with one side of the face sharply illuminated and the opposite side fading into deep, velvety black shadow. \nHis expression is contemplative.\nHis hands are near the chest in a natural, precise pose, with the fingers gently and correctly interlocked. One wrist clearly shows a luxury black chronograph watch with a detailed metal link bracelet, and one hand wears a subtle silver ring. He is dressed in a sharp black suit jacket over a white dress shirt with the top buttons open, showing refined fabric texture and natural folds.\nThe background is solid seamless black. Use strong directional studio lighting with rich contrast, clean shadow falloff, and realistic skin texture. Highlight fine details such as hair strands, beard(if present) bristles, eye moisture, facial texture, the watch face, metal bracelet reflections, and the silver ring. Shot with an 85mm portrait lens look, shallow depth of field, premium commercial photography, ultra-sharp focus, smooth natural skin transitions, cinematic contrast, no artificial plastic skin, no extra fingers, no distorted hands, no messy anatomy.\nAspect ratio 4:5.",
+    "image": "30_1785273144799.jpg",
+    "category": "style"
+  },
+  {
+    "id": 31,
+    "title": "❣️",
+    "description": "• Analyze the uploaded photo first.\nIdentify the main object (shape,silhouette, texture, color) and enhance the original photo naturally (brightness,\nexposure, contrast, white balance, sharpness, clarity, realistic high-resolution quality) while preserving the original composition, perspective, and colors.\nThen transform the main object into a completely new illustrated conçept using hand-drawn doodles.\nThe rea object must remain visible and become an essential part of the illustration-not covered or replaced.\nBuild the idea from the object's geometry, not from common doodle tropes. Before drawing, imagine multiple possibilities and choose the most original, surprising, and visually satisfying one.\nThe doodles may include anything (people, animals, fantasy creatures, architecture, vehicles, landscapes, food, planets, etc.) only if they best fit the object's shape.\nNever default\nto repeated cute characters or reuse the same concept across different images.\nThe final result should seamlessly blend reality and illustration into a clever optical illusion, as if thephotographed object naturally\nbelongs to another magical world\nStyle: whimsical, kawaii, cozy, storybook, playful, minimalist hand-drawn doodles. Prioritize originality, storytelling, and interaction with the real object over decoration.",
+    "image": "31_1785397218140.jpg",
+    "category": "cute"
   }
 ]
