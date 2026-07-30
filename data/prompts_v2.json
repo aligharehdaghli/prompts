@@ -194,5 +194,12 @@
     "description": "Prompt:CRIE UM RETRATO EM MINIATURA DE CABEÇA GRANDE\nESTILIZADO EM UMA PROPORÇÃO DE ASPECTO DE 1:1. A PESSOA APARECE COMO UM PERSONAGEM MINÚSCULO COM UMA CABEÇA LIGEIRAMENTE AUMENTADA E UM CORPO PEQUENO, SENTADO DENTRO DE UMA GRANDE MÃO HUMANA.\nPOSE: SENTADO DE PERNAS CRUZADAS, MÃOS CRUZADAS, EXPRESSÃO LEVEMENTE EMBURRADA, COM RAIVA, MAS MUITO FOFA, OLHANDO PARA A CÂMERA.\nAMBIENTE: FUNDO DESFOCADO DA NOITE DA CIDADE COM LUZES DE BOKEH.\nADICIONE UM SEGUNDO PONTEIRO APERTANDO/AJUSTANDO\nSUAVEMENTE A BOCHECHA DA PESSOA PARA UM EFEITO LÚDICO.\nROUPA: CAMISETA CASUAL, CALÇAS, SANDÁLIAS.\nILUMINAÇÃO: LUZ CINEMATOGRÁFICA SUAVE, PROFUNDIDADE DE CAMPO RASA, ALTO DETALHE, ULTRA-REALISTA, FOCO LIMPO.",
     "image": "58_1785416856856.jpg",
     "category": "cute"
+  },
+  {
+    "id": 59,
+    "title": "B&W",
+    "description": "A very dark, black-and-white iPhone selfie—a vertical shot taken without flash. The image is slightly grainy and has a touch of motion blur, as if captured while moving; it is a spontaneous, candid shot rather than a perfectly crisp one. Fingers are positioned so close to the camera that they obscure the top and bottom of the frame, leaving only a narrow horizontal strip visible in the center. Within this central band, the young woman's eyes are visible; a few strands of hair fall across herface, revealing only her brows and eyes. Her expression is sultry and bold, with a dreamy, heavy-lidded quality and long, fluffy lashes. Her brows are slightly lowered yet retain their arch. She has a feline gaze—sultry and daring. The photo is very dark, featuring deep black shadows and slight grain; it is unretouched, showing natural skin texture.",
+    "image": "59_1785416895515.jpg",
+    "category": "style"
   }
 ]
