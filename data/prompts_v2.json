@@ -180,5 +180,12 @@
     "description": "Use the uploaded photo as the base image and preserve the person's identity exactly as in the uploaded image. Keep the original pose, clothing, background, and composition from the uploaded photo. Add multiple floating translucent glass music player widgets around the subject in a futuristic holographic style with soft white glowing edges, inspired by modern Spotify UI. The song titles, artist names, album covers, progress bars, and playback controls must be fully customizable and replaceable. Arrange the music cards naturally around the subject with different sizes and depths to create a clean cinematic floating effect. Apply a warm cinematic brown/grey color grading, soft bloom, volumetric lighting, subtle reflections, premium aesthetic, ultra-realistic, high detail, 8K. Do not alter the person's face or identity.\"\nاگه می‌خوای آهنگ‌ها رو هر بار خودت مشخص کنی، آخر پرامپت این رو اضافه کن:\nReplace the music cards with these songs:\nSong 1 — Artist\nSong 2 — Artist\nSong 3 — Artist\nSong 4 — Artist\nSong 5 — Artist\nSong 6 — Artist\nSong 7 — Artist\nSong 8 — Artist\nexample\nReplace the music cards with these songs:\nFE!N — Travis Scott\nTimeless — The Weeknd & Playboi Carti\nStarboy — The Weeknd\nRedrum — 21 Savage\nNightcrawler — Travis Scott\nHighest In The Room — Travis Scott\nاینطوری فقط اسم آهنگ‌ها و کاور آلبوم‌ها عوض می‌شن و کل وایب شناور موزیک‌پلیرها مثل نمونه باقی می‌مونه.",
     "image": "56_1785416765967.jpg",
     "category": "music"
+  },
+  {
+    "id": 57,
+    "title": "old",
+    "description": "a striking, portrait of a an\nCreate\nsvmmetricallv split\nsincle person, visually\ndivided verticallv down from the\ncenter. On one side, depict them in\ntheir original youth. On the other,\nrender a realistically aged version as\nelderly individual, with detailed\nwrinkles, grav hair, and the wisdom of\ntime. The two halves should merge\ncarefullv at the center\nagainst a clean\ncolor background\ncreating a\npowerful contrast.\nUse dramatic,\nstylish lighting\nand ensure\nprofessional, high-quality,\nphotorealistic detail throughout the\ncomposition.",
+    "image": "57_1785416807145.jpg",
+    "category": "passage of time"
   }
 ]
