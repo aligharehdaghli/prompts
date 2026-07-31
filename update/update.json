@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.0.3",
+  "min_version": "1.0.3",
+  "force_update": false,
+  "title": "نسخه جدید آماده است",
+  "message": "در این نسخه امکانات جدید اضافه شده است.",
+  "package_name": "az.pishro.prompt.ai"
+}
