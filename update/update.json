@@ -4,5 +4,6 @@
   "force_update": false,
   "title": "نسخه جدید آماده است",
   "message": "در این نسخه امکانات جدید اضافه شده است.",
-  "package_name": "az.pishro.prompt.ai"
+  "package_name": "az.pishro.prompt.ai",
+  "store_url": "https://example.com/app"
 }
