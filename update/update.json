@@ -2,8 +2,22 @@
   "latest_version": "1.0.3",
   "min_version": "1.0.3",
   "force_update": false,
+
   "title": "نسخه جدید آماده است",
-  "message": "در این نسخه امکانات جدید اضافه شده است.",
-  "package_name": "az.pishro.prompt.ai",
-  "store_url": "https://example.com/app"
+  "message": "برای استفاده بهتر برنامه را بروزرسانی کنید",
+
+  "stores": [
+    {
+      "name": "Google Play",
+      "url": "https://play.google.com/store/apps/details?id=az.pishro.prompt.ai"
+    },
+    {
+      "name": "Cafe Bazaar",
+      "url": "https://cafebazaar.ir/app/az.pishro.prompt.ai"
+    },
+    {
+      "name": "Myket",
+      "url": "https://myket.ir/app/az.pishro.prompt.ai"
+    }
+  ]
 }
