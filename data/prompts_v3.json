@@ -47,5 +47,12 @@
     "description": "Create an artistic composition using two real human irises taken from real eye photographs.\n\nUse real eye photographs as the reference. Preserve the colors, patterns, and structure of the irises as accurately as possible.\n\nThe irises are placed on a completely black background and partially overlap, forming an infinity symbol composition. Between them flows a stream of cosmic dust and glowing particles created from the natural colors of the eyes.\n\nMacro photography, ultra-detailed iris textures, visible fibers, volumetric glow, depth, realistic reflections, cinematic lighting, rich colors.\n\nHigh contrast, the look of an expensive fine art iris photograph, Iris Photography style, premium contemporary art.\n\nPhotorealism, ultra-high detail, HDR, 8K, Ultra HD, masterpiece, luxury art, sharp focus, black background.\n\nNo text, no logos, no watermarks, no face, no eyelashes, only the irises and colorful dust.",
     "image": "67_1785790617785.jpg",
     "category": "eyes"
+  },
+  {
+    "id": 68,
+    "title": "cinematic style",
+    "description": "Create a photo without changing your facial features. Close-up portrait (emphasis on the face). Black and white photography with cinematic style and light film grain effect. The woman is depicted half-turned; her long hair, blown by the wind, partially covers her face. The clothes are not visible.\n\nThe background is a simple white wall. The image is characterized by a soft motion blur effect and double exposure, creating an atmosphere of artistry and reverie.\n\nFacial features should not be changed.\n\nFull, shiny lips.\n\nAspect Ratio: 9:16",
+    "image": "68_1785790795865.jpg",
+    "category": "style"
   }
 ]
