@@ -54,5 +54,12 @@
     "description": "Restore and enhance this old photo.\nIncrease sharpness. improve facial details.\nremove scratches and noise.\nKeep identity unchanged high resolution realistic result.",
     "image": "98_1786189951780.jpg",
     "category": "repair"
+  },
+  {
+    "id": 99,
+    "title": "eyes",
+    "description": "Use the uploaded reference faces as the ONLY identity source for both people.\n\nABSOLUTE FACE LOCK (BOTH):\nPreserve each person's identity 100% exactly. Do not change face shape, forehead, hairline, eyebrows, eyebrow density, eye shape, eye spacing, eyelids, eyelashes, iris color, nose, lips, jawline, skin tone, skin texture, pores, beard, age, or natural facial proportions. No beautification, no AI face replacement, no resemblance drift.\n\nCOMPOSITION:\nUltra-realistic black-and-white cinematic portrait.\nVertical 4:5.\nExtreme close-up.\nBoth faces occupy almost the entire frame.\n\nThe woman is on the left.\nThe man is on the right.\n\nTheir faces are pressed tightly together so their temples and cheeks touch naturally at the center.\n\nBoth look directly into the camera.\n\nOnly half of each face is visible, creating a perfectly balanced split composition.\n\nShow one full eye from each person and include the complete nose and lips, similar to a symmetrical half-face portrait.\n\nCrop just below the lips and slightly above the forehead.\n\nNo shoulders, no hands, no distracting background.\n\nLIGHTING:\nSoft cinematic studio lighting.\nHigh-contrast monochrome.\nNatural skin texture.\nVisible pores.\nFine facial hair.\nIndividual eyebrow hairs.\nNatural eyelashes.\nRealistic beard texture.\nSharp eyes with subtle catchlights.\n\nEXPRESSION:\nNeutral, calm, intimate, emotional.\nNo smile.\nRelaxed lips.\n\nBACKGROUND:\nPure black or very dark seamless studio background.\n\nSTYLE:\nUltra-photorealistic.\n85mm portrait lens.\nf/2.\n8K.\nProfessional editorial photography.\nNatural film-like contrast.\n\nNEGATIVE PROMPT:\ndifferent people, face morphing, blended identity, face swap, beauty filter, smooth skin, plastic skin, makeup enhancement, incorrect facial proportions, asymmetrical crop, duplicate features, extra eyes, extra nose, extra lips, distorted face, blurry, low quality, overexposed, cartoon, CGI, painting, illustration, anime, smiling, open mouth, tilted head, profile view, side angle, wide crop, visible shoulders, hands, accessories, text, watermark.",
+    "image": "99_1786190013763.jpg",
+    "category": "couple"
   }
 ]
