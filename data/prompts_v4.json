@@ -110,5 +110,12 @@
     "description": "Generate a hyper-realistic 3x4 grid collage featuring 12 portraits of the person in the attached reference photo.\nGoal: Showcase 12 different hair colors while strictly keeping the user's facial identity, current haircut shape, and hair length unchan...",
     "image": "106_1786191114157.jpg",
     "category": "makeup"
+  },
+  {
+    "id": 107,
+    "title": "ماشین کلاسیک",
+    "description": "سوژه، ترکیب‌بندی و نورپردازی اصلی را بدون تغییر هویت یا ساختار سوژه اصلی حفظ کنید. با استفاده از خطوط ارگانیک، یادداشت‌های دست‌نویس خیال‌انگیز و عناصر تخیلی که صحنه را تقویت می‌کنند، طرح‌های دستی جذابی اضافه کنید که به طور طبیعی با ژست، حرکت و محیط در تعامل باشند. طرح‌ها را متعادل، آگاه از متن و از نظر بصری یکپارچه نگه دارید و تصویری سرگرم‌کننده، رسا و آماده برای رسانه‌های اجتماعی ایجاد کنید و در عین حال مطمئن شوید که عکس اصلی همچنان نقطه کانونی است.",
+    "image": "107_1786196971096.jpg",
+    "category": "style"
   }
 ]
