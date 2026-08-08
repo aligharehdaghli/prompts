@@ -103,5 +103,12 @@
     "description": "Use the uploaded image(s) as the only identity reference. Absolute face lock. Preserve the person’s facial features, proportions, skin tone, hairstyle, and identity exactly as in the reference image. Do not alter, beautify, or reinterpret the face in any way.Photorealistic 3:4 portrait of a young man in an outdoor swimming pool filled with crystal-clear turquoise-blue water. The man is submerged up to his chest, leaning back slightly with both arms extended to the sides and partially underwater. Bright sunlight creates sparkling reflections on the water surface and realistic caustic light patterns across his skin and the water. His shoulders and upper chest are visible above the surface, while the rest of his body remains underwater with natural light refraction and distortion.The composition is minimalist—almost the entire frame is filled with the pool’s water. There are no other people or objects visible; the background consists only of the gently rippling water surface. Bright midday sunlight from above creates natural contrast, realistic shadows, vivid colors, highly detailed skin texture, water droplets, and accurate reflections. No vignette, no text, and no logos.Camera angle is slightly elevated from above, framed from the chest/waist up. The man is positioned in the lower center of the frame, leaving a large amount of negative space filled with water above him.Camera: 50–85mm lens, f/2.8–f/4, ISO 100, 1/1000s shutter speed. Sharp focus on the face and sunglasses, high dynamic range, modern lifestyle photography style, 8K, ultra-realistic.Negative Prompt: cartoon, CGI, illustration, excessive retouching, plastic skin, noise, grain, blur, facial distortion, extra limbs or fingers, artifacts, text, watermarks, foreign objects, other people, visible pool edge.",
     "image": "105_1786190902883.jpg",
     "category": "sea"
+  },
+  {
+    "id": 106,
+    "title": "رنگ مو",
+    "description": "Generate a hyper-realistic 3x4 grid collage featuring 12 portraits of the person in the attached reference photo.\nGoal: Showcase 12 different hair colors while strictly keeping the user's facial identity, current haircut shape, and hair length unchan...",
+    "image": "106_1786191114157.jpg",
+    "category": "makeup"
   }
 ]
