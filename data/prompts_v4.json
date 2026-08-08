@@ -89,5 +89,12 @@
     "description": "Экстремально крупный план лица сбоку. Она смотрит в сторону и вверх лежа на животе на кровати опирается на одну руку щекой,маникюр френч,квадрат короткий. Солнечный свет полосой освещает её лицо .\nБезупречный макияж.\nКачество реалистичное ,реалистичный снимок .Лицо менять нельзя \nВолосы распущенные ,очень длинные  на один бок  \nосвещение золотой час\nФон светлая стена.\nСнято на айфон 17 ,не ретушуй сильно лицо .формат 3:4 \nТеплая фотография с добавлением зерна \nБез одежды.copy my face 100%",
     "image": "103_1786190366371.jpg",
     "category": "sun"
+  },
+  {
+    "id": 104,
+    "title": "برنامه باشگاه",
+    "description": "Analyze the uploaded image and extract all body measurements, even if they are handwritten or written in Persian.\n\nIf the image contains body photos (front, side, or back), analyze body composition, posture, fat distribution, muscular development, and physique.\n\nThen:\n\n1.  Analyze my body proportions.\n2.  Estimate body fat percentage.\n3.  Identify strengths, weaknesses, and muscular imbalances.\n4.  Determine whether I should prioritize fat loss, muscle gain, or body recomposition.\n\nCreate TWO personalized training plans:\n\nA. Gym Workout Program\nB. Home Workout Program (Mat Only)\n\nFor each program include:\n\n•  Weekly schedule\n•  Exercises\n•  Sets\n•  Reps\n•  Rest times\n•  Cardio\n•  Warm-up\n•  Core work\n•  Stretching\n•  Recovery\n•  12-week progression plan\n\nIMPORTANT:\n\nDo NOT provide the workout plans as plain text.\n\nInstead, create TWO separate professional fitness infographics/images:\n\nIMAGE 1:\nA clean, modern Persian-language fitness poster for the Gym Workout Program.\nUse organized tables, icons, sections, and attractive visual design suitable for saving on a phone.\n\nIMAGE 2:\nA clean, modern Persian-language fitness poster for the Home Workout Program.\nUse organized tables, icons, sections, and attractive visual design suitable for saving on a phone.\n\nThe posters should be:\n\n•  Persian language\n•  Mobile-friendly (1080x1920 vertical)\n•  Easy to read\n•  Professional fitness coach style\n•  High-quality infographic design\n•  Ready to save and use as a workout guide",
+    "image": "104_1786190409160.jpg",
+    "category": "gym"
   }
 ]
