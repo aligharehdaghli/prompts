@@ -82,5 +82,12 @@
     "description": "Turn the uploaded photo into a very funny, high-quality caricature. Exaggerate the most distinctive facial features in a cute and playful way while keeping the person recognizable. Add creative cartoon elements, props, animals, objects, and visual jokes that match the person’s appearance, expression, outfit, mood, interests, and overall vibe, making the scene richer and funnier.\n\nUse a colorful, detailed, professional caricature style with strong personality and storytelling.\n\nAdd a short humorous Persian caption that fits the photo’s vibe, written in authentic Persian handwritten calligraphy style. The caption should be witty, unique to the image, and naturally integrated into the artwork.",
     "image": "9_1786279379174.jpg",
     "category": "fun"
+  },
+  {
+    "id": 10,
+    "title": "pet",
+    "description": "Не меняя внешности женщины с фото. фотореалистичное изображение, высокая текстурная детализация, высокое качество, разрешение 8К.Реалистичная фотография в высоком качестве. фото 3:4.Макияж ровный тон кожи длинные стрелки к вискам, накладные пучковые ресницы в стиле аниме (manga lashes). на губах пыльно-розовый оттенок с мягким оверлайном.очень длинные заострённые ногти-стилеты, молочно-розовый нюд с холодным подтоном, глянцевый финиш.распущенные очень длинные гладкие волосы, объемная укладка феном, волосы свободно рассыпаны по спине и предплечьям. На шеи цепочка крест в стразах  чёрный бандо  топ на руках Йорк . Поза пов-селфи снизу вверх с близкого расстояния. держит собаку  на руках, прижимая его к груди и плечу, голова слегка наклонена к собаке губы сложены «уточкой» и касаются макушки собаки взгляд направлен в объектив.Фон домашний интерьер, светлый потолок с геометрическими углублениями, чёрная подвесная люстра-шар на тонком проводе сверху, размытая стена и дверной проём позади. prompt Leronitg Освещение приглушенное, мягкое, низкий ключ (low key). глубокие тени, акцент на свете, падающем на кожу и украшения, отсутствие жесткой вспышки.приглушённая цветовая гамма, матовая цветокоррекция, эффект спонтанного фото на фронтальную камеру смартфона iPhone 17 pro max, присутствует цифровой шум и зернистость.copy my face 100%",
+    "image": "10_1786279492965.jpg",
+    "category": "selfie"
   }
 ]
