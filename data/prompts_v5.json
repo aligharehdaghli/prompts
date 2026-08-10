@@ -201,5 +201,12 @@
     "description": "Keep the exact facial structure, identity, and expression from the provided image.\nRecreate the scene in the same realistic style and pose as the reference photo:\na young man taking a mirror selfie indoors at night, using an iPhone 15 Pro Max with a clear MagSafe case.\nThe camera is close to the face (about 40 cm away), slightly angled downward.\nThe man’s right hand holds the phone near his face, and part of his left forearm with tattoos and a silver chain bracelet is visible.\nOutfit: light blue shirt with white vertical stripes, slightly unbuttoned collar, relaxed fit.\nExpression: neutral with slightly pursed lips, confident but natural look.\nEnvironment: small dark room or elevator, metallic and reflective walls, visible door handle and hinges in the background.\nLighting: cool-toned overhead light, evenly distributed, medium contrast.\nFocus: full sharp focus across the entire frame (no blur anywhere), every detail — skin texture, hair, tattoos, shirt wrinkles, and reflections — must be visible.\nPhoto style: ultra-realistic, high-resolution DSLR or iPhone 15 Pro Max quality, cinematic lighting, realistic colors and tones, no cartoonish or artificial effect.\nmake sure the face remains identical to the one provided.\ninclude all visual details for a lifelike and natural result.",
     "image": "139_1786347806660.jpg",
     "category": "selfie"
+  },
+  {
+    "id": 140,
+    "title": "کاپلی",
+    "description": "Use ref image for the girl, don't change face or skintone.\nA vintage-style photo booth strip featuring three warm sepia-toned frames of that boy and me\nTop: The woman playfully sticks out her tongue while the man leans in to kiss her cheek.\nMiddle: They laugh and hug tightly, arms wrapped around each other.\nBottom: The couple shares a passionate kiss, framed by her flowing hair a candid, nostalgic display of chemistry and affection.",
+    "image": "140_1786347847612.jpg",
+    "category": "couple"
   }
 ]
