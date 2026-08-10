@@ -82,5 +82,12 @@
     "description": "\"prompt\": \"Photorealistic vertical 4:5 close-up lifestyle portrait of a young woman sitting at an outdoor cafe beside a large reflective window. She is slightly angled toward the camera with a relaxed posture, looking directly at the lens with a calm, confident, closed-lip expression. One hand is raised near her hair while the other rests casually near a plastic iced coffee cup in the foreground. She wears oversized dark oval sunglasses with thin gold accents, a loose beige linen button-up shirt, a metallic wristwatch and a slim black bracelet. Long straight hair, center-parted, falling naturally over both shoulders. Soft-glam makeup: smooth matte skin texture, defined brows, neutral brown eyeshadow, subtle eyeliner, mascara, soft contour, warm peach blush and matte nude-brown lipstick. Background includes beige curtains, urban building facade and window reflections. Warm golden-hour sunlight from the side creates soft shadows and natural highlights. Eye-level smartphone camera angle, natural iPhone 13 photo look with slight grain, mild softness and realistic skin texture. No HDR, no CGI, no beauty filter, no oversharpening.\",\n  \"aspect_ratio\": \"4:5\",\n  \"style\": \"photorealistic\",\n  \"camera\": \"iPhone 13\",\n  \"lighting\": \"golden hour natural light\",\n  \"quality\": \"high\",\n  \"negative_prompt\": \"CGI, unrealistic skin, over-smooth face, beauty filter, HDR, oversharpened, distorted hands, extra fingers, blur, low quality\"",
     "image": "152_1786373014785.jpg",
     "category": "style"
+  },
+  {
+    "id": 153,
+    "title": "آسمون",
+    "description": "Все промпты есть в постах:\n\nНижний ракурс, снято сильно снизу вверх\nЭффектный портрет молодой женщины с длинными, объемные волнистые, сделанный с нижнего ракурса (рыбий глаз). Она одета в нежно розовую объемную оверсайз футболку свободного кроя. Девушка слегка улыбается, глядя в камеру, и изящно касается локтем своих волос, будто бы обвивает голову. Фон - бескрайнее ярко-синее небо, заполненное динамичными белыми кучевыми облаками, которые создают ощущение глубины и свободы.\nИдеальный тон лица, пухлые губы в карандаше пыльная Роза ,контур на тон темнее. Прозрачные очки узкие прямоугольные в серебристой оправе Естественное солнечное освещение подчеркивает текстуру кудрей и черты лица. Высокая детализация волос, кожи, яркие цвета, широкоугольная съемка, стиль современной мобильной фотографии для соцсетей.\nГиперреализм 9:16",
+    "image": "153_1786373815887.jpg",
+    "category": "selfie"
   }
 ]
