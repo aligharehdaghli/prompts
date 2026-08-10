@@ -75,5 +75,12 @@
     "description": "Девушка делает селфи вытянув руку, кисть не видно Она стоит на фоне железной кованой двери Прямо в камеру но взгляд в сторону глазами Держит прозрачный стакан с матчей и из трубочки пьет На глазах прозрачные без оправы очки Одета в черную варенка футболку оверсайз На груди крест на цепочке Волосы объемные длинные блестящие Кожа идеальная подсвечена, ресницы накрашены, губы нюдовая  помада матовая Не меняй черты лица Формат 9:16",
     "image": "151_1786372882996.jpg",
     "category": "food"
+  },
+  {
+    "id": 152,
+    "title": "عینک آفتابی",
+    "description": "\"prompt\": \"Photorealistic vertical 4:5 close-up lifestyle portrait of a young woman sitting at an outdoor cafe beside a large reflective window. She is slightly angled toward the camera with a relaxed posture, looking directly at the lens with a calm, confident, closed-lip expression. One hand is raised near her hair while the other rests casually near a plastic iced coffee cup in the foreground. She wears oversized dark oval sunglasses with thin gold accents, a loose beige linen button-up shirt, a metallic wristwatch and a slim black bracelet. Long straight hair, center-parted, falling naturally over both shoulders. Soft-glam makeup: smooth matte skin texture, defined brows, neutral brown eyeshadow, subtle eyeliner, mascara, soft contour, warm peach blush and matte nude-brown lipstick. Background includes beige curtains, urban building facade and window reflections. Warm golden-hour sunlight from the side creates soft shadows and natural highlights. Eye-level smartphone camera angle, natural iPhone 13 photo look with slight grain, mild softness and realistic skin texture. No HDR, no CGI, no beauty filter, no oversharpening.\",\n  \"aspect_ratio\": \"4:5\",\n  \"style\": \"photorealistic\",\n  \"camera\": \"iPhone 13\",\n  \"lighting\": \"golden hour natural light\",\n  \"quality\": \"high\",\n  \"negative_prompt\": \"CGI, unrealistic skin, over-smooth face, beauty filter, HDR, oversharpened, distorted hands, extra fingers, blur, low quality\"",
+    "image": "152_1786373014785.jpg",
+    "category": "style"
   }
 ]
