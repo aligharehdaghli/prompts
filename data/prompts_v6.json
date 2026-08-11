@@ -152,5 +152,12 @@
     "description": "A hyper-realistic photo of a woman ( use my upload image) in traditional 19th-century Iranian (Qajar) attire, looking intensely from behind a wooden door frame. She wears a white dress with yellow flower embroidery and a pale blue headscarf. A white lace",
     "image": "162_1786374421607.jpg",
     "category": "style"
+  },
+  {
+    "id": 163,
+    "title": "طبیعت",
+    "description": "A mountain lifestyle portrait captured after the rain, evoking the atmosphere of a cool evening; a candid shot using flash.\n\nCreate an image without altering facial features. Strictly maintain 100% likeness to the reference. Preserve the shape of the face, eyes, eyebrows, nose, lips, proportions, hair color, and all unique characteristics exactly as they appear in the reference image. No smoothing, no retouching, and no changes to facial geometry. Natural skin texture with visible pores.\n\nVertical 4:5 format. Shot on a Canon G7X Mark III with flash. Camera at chest level; a hip-up shot. Slight digital grain, subdued exposure, no filters, no text or watermarks. Do not blur the background.\n\nA young woman stands in a green mountain meadow. Her body is turned slightly to the left, while her head is turned to the right. She is smiling softly, g...",
+    "image": "163_1786437565859.jpg",
+    "category": "nature"
   }
 ]
