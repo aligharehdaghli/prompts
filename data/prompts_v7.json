@@ -68,5 +68,12 @@
     "description": "Black and white vintage-style photograph of a young woman sitting sideways in a small wooden rowboat on a calm lake. She wears a long off-shoulder lace dress with soft fabric and subtle patterns, classic 1940s look. Dark wavy shoulder-length hair, defined eyebrows, dark lipstick, gentle and dreamy expression, head slightly tilted toward the camera. One hand rests on the boat edge, the other lightly touching the water, creating small ripples. Soft natural light, shallow depth of field, blurred water background, overhanging tree branches with leaves framing the top. Cinematic, nostalgic, high contrast, fine film grain, natural face, no modern elements",
     "image": "180_1786539390466.jpg",
     "category": "sea"
+  },
+  {
+    "id": 181,
+    "title": "شهر",
+    "description": "Use the person from the reference image and keep the same facial identity consistent with the reference.\nA young woman stands on a plateau at night with a vast, sparkling city lights as a backdrop. The woman is on the bottom left side of the frame, the right of the frame is negative space wearing a dark gray oversized t-shirt with her arms crossed while looking to the right.face looks faint and slightly blurred due to the low light candid photography effect. Accessories: thin silver chain necklace, silver Watch, thin bracelet. Behind her is a stretch of city lights that fillthe horizon, dark hills, and a vast empty night sky as negative space.\nLighting: Underexposed Foreground (Underexposed Subject): The main subject in the foreground is deliberately made very underexposed, so that it almost forms a silhouette. There is no direct light source (key light or flash) that shines on the subject's face or body, making the details covered inthick shadow. Backlighting (Lighting from Behind): The most dominant light source is the expanse of city lights in the background. This condition creates a backlight effect, where the light from behind emphasizes the dark shape of the subject in front. negativeprompt: disfigured face, bad anatomy, deformed hand, extra fingers, excessive blur, grainy noise, overexposed, extreme underexposed, low quality, watermark, text, logo, double object, cropped body, odd proportions, cartoon face, CGl, illustration, overly sharp colors, oversaturated, cluttered background, overly bright light, lens distortion, asymmetrical eyes, plastic skin, lostdetail, daylight photo, stiff pose aspect ratio: 9:16.",
+    "image": "181_1786539445773.jpg",
+    "category": "more"
   }
 ]
