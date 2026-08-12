@@ -54,5 +54,12 @@
     "description": "Use the uploaded face reference image. Preserve the face 100% exactly as in the reference — same facial structure, proportions, skin texture, expression, and all unique facial details. Do not alter the face in any way.\n\nA young woman is seated at a VIP table in a stylish nighttime café. The atmosphere is filled with vibrant purple neon lighting that softly illuminates the scene. She is holding an enormous luxurious bouquet of 1,000 white roses in her arms. She looks directly into the camera with.",
     "image": "178_1786539273211.jpg",
     "category": "flower"
+  },
+  {
+    "id": 179,
+    "title": "قهوه",
+    "description": "Prompt \nMan reclining in a chair, body angled to the right, head tilted back looking upward. Wearing dark sunglasses and a watch on left wrist.Right hand raised holding a small glass of steaming hot tea/chai, steam rising visibly. Strong rim lighting from the side creating silver highlights on edges of body, face, and glass against a pure black background.Low-key, high-contrast monochrome photography",
+    "image": "179_1786539361930.jpg",
+    "category": "black and white"
   }
 ]
