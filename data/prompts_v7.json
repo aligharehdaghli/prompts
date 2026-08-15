@@ -110,5 +110,12 @@
     "description": "Use my uploaded photo as the face reference and preserve my exact facial features, hairstyle, skin tone, body proportions, and identity. Replace the person in the reference scene with me while keeping the exact same composition, pose, camera angle, framing, perspective, and background.\nI am sitting casually on the hood of a vintage black sedan in a busy parking lot at night, in front of a glowing retro neon gym sign. The atmosphere has a nostalgic 1990s American aesthetic with parked classic cars, warm tungsten lighting, colorful neon reflections, and cinematic nighttime ambience.\nOutfit: oversized dark hoodie, light blue jeans, white sneakers.\nShot on a vintage instant camera with direct flash, slightly overexposed highlights, soft focus, subtle film grain, faded colors, dust particles, scratches, authentic Polaroid texture, analog photography, nostalgic mood.\nKeep the pose, facial expression, hand placement, body position, camera distance, and overall composition identical to the reference image. Only replace the person with me. Ultra-realistic. 9:16.",
     "image": "186_1786784378287.jpg",
     "category": "car"
+  },
+  {
+    "id": 187,
+    "title": "",
+    "description": "Use 100% face above uploaded photo. Create a vertical 3-panel storyboard collage featuring a medium-height young man. He is wearing stylish dark sunglasses, an unbuttoned light blue linen shirt with rolled-up sleeves, white pants, and a dark wristwatch. The setting is a serene beach. > Top panel: A wide shot of the man standing in the shallow surf at sunset, hands in his pockets, looking off into the distance to the left. The background features a calm ocean and a bright golden-orange sunset sky. > Middle panel: A closer chest-up cinematic portrait of the man facing forward but looking slightly away, adjusting his sleeve to prominently display his watch. The lighting transitions to soft twilight with gentle blue and purple hues over the ocean. > Bottom panel: A shot from behind the man, showing him facing the vast ocean with his arms outstretched wide, embracing the breeze. The sky is filled with dramatic sunset clouds and golden rays of light piercing through. Overall style: 4k resolution, highly detailed, photorealistic cinematic fashion photography, 35mm lens simulation, vibrant colors, social media aesthetic. Absolutely no text, letters, or watermarks anywhere in the image, 100% my face same, I need this prompt picture, aspect ratio 4:5,",
+    "image": "187_1786784435436.jpg",
+    "category": "sea"
   }
 ]
