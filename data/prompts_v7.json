@@ -103,5 +103,12 @@
     "description": "Use this uploaded image as face reference, using this face without enhancing or altering it in any way.\nCreate a female portrait in front of a mirror, with red lipstick writing the phrase \"birthday girl 32!\" in large letters on the glass, accompanied by small hearts. The woman has long, loose, slightly wavy hair, soft makeup with bold lipstick, and a confident and serene expression. She holds a lipstick and wears sheer black tulle gloves with polka dots that reach her elbows, wearing a black velvet dress with feather details on the chest. Also black, the reflection in the mirror shows her face and part of her body, creating an intimate and artistic atmosphere. The setting is a minimalist bathroom with white tiles and soft lighting with low exposure. Analog photography style, with a retro effect and a red date detail in the lower corner of the image. Elegant atmosphere, fashion magazine aesthetic, realistic and cinematic.\nDo not alter the physical characteristics, skin tone, hair, or facial features; keep the image the same as the reference photo sent.\nبا چهره عکس رفرنس بدون کوچیک ترین تغییری در صورت و چهره با پرامپت بالا برام بساز",
     "image": "185_1786784293085.jpg",
     "category": "birthday"
+  },
+  {
+    "id": 186,
+    "title": "گنگ",
+    "description": "Use my uploaded photo as the face reference and preserve my exact facial features, hairstyle, skin tone, body proportions, and identity. Replace the person in the reference scene with me while keeping the exact same composition, pose, camera angle, framing, perspective, and background.\nI am sitting casually on the hood of a vintage black sedan in a busy parking lot at night, in front of a glowing retro neon gym sign. The atmosphere has a nostalgic 1990s American aesthetic with parked classic cars, warm tungsten lighting, colorful neon reflections, and cinematic nighttime ambience.\nOutfit: oversized dark hoodie, light blue jeans, white sneakers.\nShot on a vintage instant camera with direct flash, slightly overexposed highlights, soft focus, subtle film grain, faded colors, dust particles, scratches, authentic Polaroid texture, analog photography, nostalgic mood.\nKeep the pose, facial expression, hand placement, body position, camera distance, and overall composition identical to the reference image. Only replace the person with me. Ultra-realistic. 9:16.",
+    "image": "186_1786784378287.jpg",
+    "category": "car"
   }
 ]
